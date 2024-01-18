@@ -1,7 +1,7 @@
 {
-  "name": "crowley-5p",
+  "name": "crowley-5op",
   "version": "0.1.0",
-  "homepage": "luiz-silva-sorcerer.github.io/crowley-5p",
+  "homepage": "luiz-silva-sorcerer.github.io/crowley-5op",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
